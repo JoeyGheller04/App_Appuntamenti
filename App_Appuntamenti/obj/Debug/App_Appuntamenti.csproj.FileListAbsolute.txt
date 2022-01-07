@@ -1,0 +1,10 @@
+C:\Users\Joey\Desktop\App_Appuntamenti\App_Appuntamenti\bin\Debug\App_Appuntamenti.exe.config
+C:\Users\Joey\Desktop\App_Appuntamenti\App_Appuntamenti\bin\Debug\App_Appuntamenti.exe
+C:\Users\Joey\Desktop\App_Appuntamenti\App_Appuntamenti\bin\Debug\App_Appuntamenti.pdb
+C:\Users\Joey\Desktop\App_Appuntamenti\App_Appuntamenti\obj\Debug\App_Appuntamenti.csprojAssemblyReference.cache
+C:\Users\Joey\Desktop\App_Appuntamenti\App_Appuntamenti\obj\Debug\App_Appuntamenti.frm.resources
+C:\Users\Joey\Desktop\App_Appuntamenti\App_Appuntamenti\obj\Debug\App_Appuntamenti.Properties.Resources.resources
+C:\Users\Joey\Desktop\App_Appuntamenti\App_Appuntamenti\obj\Debug\App_Appuntamenti.csproj.GenerateResource.cache
+C:\Users\Joey\Desktop\App_Appuntamenti\App_Appuntamenti\obj\Debug\App_Appuntamenti.csproj.CoreCompileInputs.cache
+C:\Users\Joey\Desktop\App_Appuntamenti\App_Appuntamenti\obj\Debug\App_Appuntamenti.exe
+C:\Users\Joey\Desktop\App_Appuntamenti\App_Appuntamenti\obj\Debug\App_Appuntamenti.pdb
